@@ -67,7 +67,4 @@ Run the shell:
 
 Developed collaboratively for COMP 240 at Macalester College.
 
-## Course Documentation
-
-The original course report, including implementation details, known issues, and external references used during development, is preserved in [`COURSE_REPORT.md`](COURSE_REPORT.md).
 
